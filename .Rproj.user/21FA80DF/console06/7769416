@@ -1,0 +1,9 @@
+]0;~/projects/archives_FR/code[?1034hEvgeniyas-MacBook-Air:code shtyrkovaev$ [KEvgeniyas-MacBook-Air:code shtyrkovaev$ git init
+Initialized empty Git repository in /Users/shtyrkovaev/projects/archives_FR/code/.git/
+]0;~/projects/archives_FR/codeEvgeniyas-MacBook-Air:code shtyrkovaev$ git remote add origin https://github.com/EugeniaSH/archives_FR .git
+]0;~/projects/archives_FR/codeEvgeniyas-MacBook-Air:code shtyrkovaev$ git push -u origin master
+error: src refspec master does not match any.
+error: failed to push some refs to 'https://github.com/EugeniaSH/archives_FR.git'
+]0;~/projects/archives_FR/codeEvgeniyas-MacBook-Air:code shtyrkovaev$ git remote rm origin
+]0;~/projects/archives_FR/codeEvgeniyas-MacBook-Air:code shtyrkovaev$ 
+]0;~/projects/archives_FR/codeEvgeniyas-MacBook-Air:code shtyrkovaev$ 
